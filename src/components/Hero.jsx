@@ -115,7 +115,7 @@ export default function Hero({ onOpenResume }) {
               gap: '0.5rem'
             }}
           >
-            <span>I build</span>
+            <span>I am a</span>
             <span
               style={{
                 color: 'var(--color-primary)',
