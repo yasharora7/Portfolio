@@ -41,6 +41,22 @@ export const PORTFOLIO_DATA = {
     ]
   },
 
+  experience: [
+    {
+      id: "exp-1",
+      role: "Software Engineering Project Developer",
+      company: "Independent & Academic SDE Projects",
+      location: "Kanpur, UP, India",
+      period: "2023 - Present",
+      description: "Designed, architected, and deployed scalable backend services, full-stack applications, and algorithmic systems.",
+      achievements: [
+        "Architected an offline UPI payment routing system utilizing mesh networking, RSA-2048 key exchange, and AES-256-GCM encryption.",
+        "Engineered full-stack web platforms using Java, Spring Boot, Node.js, Express, React, and MySQL / MongoDB.",
+        "Solved 500+ data structures and algorithms challenges across LeetCode and HackerRank."
+      ]
+    }
+  ],
+
   themeAccents: [
     { id: "cyan", name: "Cyber Cyan", primary: "#06b6d4", secondary: "#3b82f6", glow: "rgba(6, 182, 212, 0.4)" },
     { id: "purple", name: "Royal Violet", primary: "#a855f7", secondary: "#ec4899", glow: "rgba(168, 85, 247, 0.4)" },
