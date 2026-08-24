@@ -4,7 +4,7 @@ export const PORTFOLIO_DATA = {
     initials: "YA",
     roles: [
       "Software Development Engineer (SDE)",
-      "Software Development",
+      "Software Developer",
       "Full-Stack Web Developer",
       "Problem Solver (500+ LeetCode)"
     ],
